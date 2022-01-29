@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">XPay-Android</string>
+    <string name="app_name_v">XPay-Android V 0.1.0.0</string>
+    <string name="search">Search</string>
+    <string name="initial_setup">Initial Setup</string>
+    <string name="home">Home</string>
+    <string name="reports">Reports</string>
+    <string name="claim">Claim</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="settings">Settings</string>
+    <string name="reprint">Reprint</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+
+    <string name="login_slug_txt">Log in to your SMART EPAY account</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="change_branch">Change Branch</string>
+    <string name="balance">Balance</string>
+    <string name="change_lang">Change Language</string>
+    <string name="support_login">Support Login</string>
+
+    <string name="exit">Exit</string>
+    <string name="options">Options</string>
+    <string name="loading_dataVersion">Loading Data Version…</string>
+    <string name="loading_mainConfig">Loading Main Configuration…</string>
+    <string name="loading_layout">Loading Printing Layout…</string>
+    <string name="loading_categories">Loading Categories…</string>
+    <string name="loading_sub_categories">Loading Sub-Categories…</string>
+    <string name="loading_products">Loading Products…</string>
+    <string name="loading_transaction_history">Loading Transaction History…</string>
+    <string name="loading_contact_info">Loading Contact Info…</string>
+    <string name="loading_logs">Loading Logs…</string>
+<!--SUP SCREENS-->
+    <string name="common">Common</string>
+    <string name="account">Accounts</string>
+    <string name="accounts_slogan">Select the account you want to edit</string>
+    <string name="change_password">Change Password</string>
+    <string name="change_password_slogan">Change your account password</string>
+    <string name="test_center">Test Center</string>
+    <string name="secondary">Secondary</string>
+    <string name="language">Language</string>
+    <string name="contact_us">Contact Us</string>
+
+    <string name="complete">Complete…</string>
+    <string name="loading_data">Loading Data…</string>
+    <string name="short_password">Password should be at least</string>
+    <string name="unknown_err">Unknown error happened !</string>
+    <string name="no_user_found">Password doesnot match any user!</string>
+
+    <string name="arabic">العربية</string>
+    <string name="english">English</string>
+    <string name="french">français</string>
+    <string name="urdu">Urdu</string>
+    <string name="turkish">Türkçe</string>
+    <string name="select_language">Select Language</string>
+    <string name="language_slug">Select  your preferred language from the list below</string>
+    <string name="back">Back</string>
+    <string name="quick_acess">Quick Access</string>
+    <string name="quick_access_slug">Build a customized experience by selecting your frequent products.</string>
+    <string name="select_items">Select Items</string>
+    <string name="aed_currency">AED</string>
+    <string name="submit">Submit</string>
+    <string name="please_wait">Please wait</string>
+    <string name="skip">Skip</string>
+    <string name="reprint_slug">Select the receipt you want to reprint</string>
+    <string name="enter_receipt_number">Enter receipt number</string>
+    <string name="cart">Cart</string>
+    <string name="payment_info">Payment Info</string>
+    <string name="discount">Discount</string>
+    <string name="total">Total</string>
+    <string name="net">Net</string>
+    <string name="tax">Tax</string>
+    <string name="checkout">Checkout</string>
+    <string name="enter_discount_value">Enter discount value</string>
+    <string name="apply">Apply</string>
+    <string name="remove_discount">Remove Discount</string>
+    <string name="coupon">Coupon</string>
+    <string name="phone">Phone</string>
+    <string name="car_plate">Car Plate</string>
+    <string name="item_discount">Item Discount</string>
+    <string name="add_discount">Add Discount</string>
+    <string name="add_account">Add Account</string>
+    <string name="overall_discount_slug">Deduction limit is 200 AED!</string>
+    <string name="cash">Cash</string>
+    <string name="bank">Bank</string>
+    <string name="nfc">NFC</string>
+    <string name="by_value">Value</string>
+    <string name="by_percent">Percent</string>
+    <string name="checkout_pay">PAY %1$s AED</string>
+    <string name="thank_you">Thank You !</string>
+    <string name="successful_transaction">The transaction was successful.</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="amount">Amount</string>
+    <string name="done">Done</string>
+    <string name="rollback">Roll Back</string>
+    <string name="purchasing">Purchasing ...</string>
+    <string name="reprint_last_receipt">Reprint the last Receipt</string>
+    <string name="no_receipt">No Receipt</string>
+    <string name="reprint_search_slug">Please enter a receipt number to reprint\nOr</string>
+    <string name="no_receipt_found">No receipt found !</string>
+    <string name="error_happened">Error happened!</string>
+    <string name="check_connection">Please check you are connected and try again !</string>
+    <string name="please_enter_receipt_num">Please enter receipt number you want to reprint</string>
+    <string name="history_slug">Select the receipt you want to reprint or claim</string>
+    <string name="receipt_no">Receipt NO. %1$s</string>
+    <string name="transaction_no">Transaction NO. %1$s</string>
+    <string name="x_aed">%1$s AED</string>
+
+    <string name="transactions_reports">Transactions</string>
+    <string name="cashiers_reports">Cashiers</string>
+    <string name="products_reports">Products</string>
+    <string name="quantity">Quantity</string>
+    <string name="select_date">Select a date</string>
+    <string name="clear">Clear</string>
+    <string name="select_cashier">Select a cashier</string>
+    <string name="no_transaction_on_this_day">No transaction exist on this day !</string>
+    <string name="details">Details</string>
+    <string name="print_test">Print Test</string>
+    <string name="nfc_test">NFC Test</string>
+    <string name="customer_screen">Customer Screen</string>
+    <string name="qr_reader">QR Reader</string>
+    <string name="qr_reader_test">QR Reader Test</string>
+    <string name="qr_maker">QR Maker</string>
+    <string name="qr_maker_test">QR Maker Test</string>
+    <string name="internet_test">Internet Test</string>
+    <string name="test_center_slogan">Select the functionality you want to test</string>
+    <string name="old_password">Old Password</string>
+    <string name="enter_old_password">Enter old password</string>
+    <string name="new_password">New Password</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_new_password">Confirm new password</string>
+    <string name="supervisor">Supervisor</string>
+    <string name="cashier">Cashier</string>
+    <string name="worker">Worker</string>
+    <string name="account_name">Account Name</string>
+    <string name="type">Type</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="print">Print</string>
+    <string name="claimed">Claimed</string>
+    <string name="enter_terminal_id">Enter Terminal ID</string>
+    <string name="terminal_id_too_short">You Should Enter 6 Numbers</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="point_your_camera">point your camera towards\n the code</string>
+    <string name="use_terminal_id">Use Terminal ID</string>
+    <string name="enter_provided_terminal_id">Enter the provided terminal ID</string>
+    <string name="claim_title">Claim</string>
+    <string name="claim_search_filed_text">Enter Receipt Number</string>
+    <string name="claim_sub_title">Select the receipt you want to claim</string>
+    <string name="claim_sub_title2">Please enter a receipt number to claim \n or</string>
+    <string name="choose_branch">Choose Branch</string>
+    <string name="select_branch">Select the branch you want to switch to</string>
+    <string name="both_discounts_supported">Both discount type is supported</string>
+    <string name="contact_us_slug">Feel free to contact us at the contact details below at your convenience</string>
+    <string name="support_team">Support Team</string>
+    <string name="sales_team">Sales Team</string>
+    <string name="no_current_pass_found">No password known for current logged user!</string>
+    <string name="passwords_not_matching">New password and confirmation is not matched !</string>
+    <string name="old_password_not_correct">Old password is not correct !</string>
+    <string name="no_printer_available">No printer available !</string>
+    <string name="no_internet">No internet connection available !</string>
+    <string name="checking_internet_running">Checking internet speed ...\nPlease wait</string>
+    <string name="internet_checked">Checking internet completed.</string>
+    <string name="kb_per_second">Kbps</string>
+    <string name="mb_per_second">Mbps</string>
+    <string name="recheck">Re-check</string>
+    <string name="completed">Completed</string>
+    <string name="logout">Log out</string>
+    <string name="x_am">%1$s AM</string>
+    <string name="x_pm">%1$s PM</string>
+    <string name="forgot_something">Forgot something?</string>
+    <string name="add_more">Add More</string>
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+</resources>
